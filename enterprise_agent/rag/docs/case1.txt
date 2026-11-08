@@ -1,0 +1,20 @@
+Client: Retail Company
+
+Industry: E-commerce
+
+Problem:
+The client was facing issues with disconnected systems between CRM (Salesforce) and ERP (SAP). 
+Customer data and order data were not synchronized in real-time.
+
+Tech Stack:
+Salesforce, SAP, REST APIs
+
+Solution:
+Implemented an API Gateway with microservices architecture.
+Used middleware for data transformation and orchestration.
+Enabled real-time synchronization using event-driven architecture.
+
+Outcome:
+Improved customer experience.
+Reduced manual effort by 60%.
+Achieved real-time data visibility across systems.

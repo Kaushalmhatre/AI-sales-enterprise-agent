@@ -1,0 +1,20 @@
+Client: Logistics Company
+
+Industry: Supply Chain
+
+Problem:
+Shipment tracking systems were not connected with warehouse management systems.
+Lack of visibility in real-time tracking.
+
+Tech Stack:
+IoT Devices, Warehouse Software, GPS Systems
+
+Solution:
+Integrated IoT data with cloud-based analytics platform.
+Used Kafka for real-time streaming.
+Built centralized dashboard.
+
+Outcome:
+Real-time shipment tracking.
+Improved operational efficiency.
+Better decision-making with analytics.

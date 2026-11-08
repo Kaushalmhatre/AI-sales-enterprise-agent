@@ -1,0 +1,20 @@
+Client: Banking Institution
+
+Industry: Finance
+
+Problem:
+Legacy banking systems were not integrated with modern mobile applications.
+Customers faced delays in transactions and poor digital experience.
+
+Tech Stack:
+Java, Core Banking System, Mobile Apps
+
+Solution:
+Developed API-based integration layer.
+Implemented secure authentication using OAuth.
+Enabled real-time transaction processing.
+
+Outcome:
+Improved mobile banking experience.
+Reduced transaction latency.
+Increased customer satisfaction.

@@ -1,0 +1,12 @@
+You are a technical sales engineer.
+
+From the transcript extract:
+
+1. Pain Points
+2. Current Tech Stack
+3. Desired Outcome
+
+Transcript:
+{transcript}
+
+Return in structured format.

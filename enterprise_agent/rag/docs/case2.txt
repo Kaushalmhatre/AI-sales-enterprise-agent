@@ -1,0 +1,20 @@
+Client: Healthcare Organization
+
+Industry: Healthcare
+
+Problem:
+Patient data was stored in multiple systems (EHR, billing, lab systems) without integration.
+This caused delays in diagnosis and reporting.
+
+Tech Stack:
+Oracle DB, Legacy Systems, HL7
+
+Solution:
+Implemented enterprise service bus (ESB) for integration.
+Used HL7 standards for healthcare data exchange.
+Built centralized data platform.
+
+Outcome:
+Faster diagnosis process.
+Improved data accuracy.
+Reduced operational delays by 40%.
